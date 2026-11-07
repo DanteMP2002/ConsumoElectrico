@@ -390,7 +390,6 @@
         private Label lblMontoConsumo;
         private Panel pnlTitulo;
         private Panel pnlConsumoCalculado;
-        private Label lblConsumoResultado;
         private Panel pnlNombreCliente;
         private Label lblTotalPago;
         private Panel pnlTotalPago;

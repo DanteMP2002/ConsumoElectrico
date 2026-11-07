@@ -1,3 +1,13 @@
 <Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="ARM" />
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
   <Project Path="Ejercicio05_ConsumoElectrico/Ejercicio05_ConsumoElectrico.csproj" />
+  <Project Path="Empaquetador/Empaquetador.wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="dd905cb9-f969-4157-9472-9ffbef5d6ad1">
+    <Deploy />
+  </Project>
 </Solution>
